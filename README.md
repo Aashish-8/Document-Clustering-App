@@ -3,7 +3,7 @@
 This project is a complete end-to-end application that clusters uploaded documents based on their content.  
 It combines a backend powered by Python (Jupyter Notebook), frontend components built with HTML and Streamlit, and machine learning for document clustering.
 
-🔗 **Hosted App**: [Visit the Streamlit Web App](#) *https://document-clustering-app-gvto3k7psxhyuag3zicaeb.streamlit.app/*
+🔗 **Hosted App**: [Visit the Streamlit Web App](#) (*https://document-clustering-app-gvto3k7psxhyuag3zicaeb.streamlit.app/*)
 
 ---
 
